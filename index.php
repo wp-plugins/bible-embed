@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Bible Text Embed
-Version: 0.0.1
+Version: 0.0.2
 Plugin URI: http://www.joshuawieczorek.com/wordpress/plugins/bible-embed
 Author: Joshua Wieczorek
 Author URI: http://www.joshuawieczorek.com

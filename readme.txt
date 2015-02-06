@@ -14,7 +14,7 @@ This plugin allows you to display bible verses and passages directly in your pos
 
 == Installation ==
 
-1. Upload the `bible-embed` folder to the `/wp-content/plugins/` directory
+1. Upload the `bible-embed.zip` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Register your website with Biblia.Com to recieve an API key.
 4. Go to Dashboard > Settings > BibleEmbed and enter you API key.
