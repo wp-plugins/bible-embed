@@ -27,7 +27,7 @@ Please note that this plugin requires an API Key from Biblia.Com.
 [bible passage="Jn 3:16"]
 </pre>
 
-###Advanced Usage
+<h3>Advanced Usage</h3>
 
 <pre>
 [bible passage="John 3:15-18" version="KJV" shownum="no" 1vpl="no" versesep="div" sepclass="bible-verse"]
