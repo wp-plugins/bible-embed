@@ -19,15 +19,15 @@ Please note that this plugin requires an API Key from Biblia.Com.
 
 [Click this link to register for a Biblia.Com API key!](http://api.biblia.com/v1/Users/SignIn)
 
-##Shortcode Usage Example
+Shortcode Usage Example
 
-==Simple Usage==
+== Simple Usage ==
 
 <pre>
 [bible passage="Jn 3:16"]
 </pre>
 
-==Advanced Usage==
+== Advanced Usage ==
 
 <pre>
 [bible passage="John 3:15-18" version="KJV" shownum="no" 1vpl="no" versesep="div" sepclass="bible-verse"]
