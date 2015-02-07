@@ -40,7 +40,7 @@ Here I will demonstrate how to use the shortcode.
 
 * **passage** *(is the bible passage that you want to display.)*
 * **version** *(is the bible translation that you want to use, default is KJV.)*
-* **shownum** (show the verse numbers (yes or no), default is no.)*
+* **shownum** *(show the verse numbers (yes or no), default is no.)*
 * **1vpl** *(one verse per line (yes or no), default is yes.)*
 * **versesep** *(is the html element that wraps a single verse, default is the ”&lt;p&gt;” tag.)*
 * **sepclass** *(is the verse wrapper css class.)*
