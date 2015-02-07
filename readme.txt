@@ -47,14 +47,14 @@ Here I will demonstrate how to use the shortcode.
 
 = Lang = 
 
-Currently this plugin is only in English, however, if anyone would like to translate it into another language, please contact me. This would greatly appreciated.
+Currently this plugin is only in English, however, if anyone would like to translate it into another language, please contact me at josh@joshuawieczorek.com. This help would greatly appreciated.
 
 == Installation ==
 
 1. Upload the `bible-embed.zip` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the Plugins Manager in WordPress
 3. Register your website with Biblia.Com to recieve an API key.
-4. Go to Dashboard > Settings > BibleEmbed and enter you API key.
+4. Go to Dashboard > Settings > BibleEmbed and enter your API key.
 
 == Screenshots ==
 
