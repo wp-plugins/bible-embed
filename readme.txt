@@ -19,24 +19,32 @@ Please note that this plugin requires an API Key from Biblia.Com.
 
 [Click the link below to register for a Biblia.Com API key!](http://api.biblia.com/v1/Users/SignIn)
 
-=Shortcode Usage Example=
+##Shortcode Usage Example
 
-=Simple Usage:=
+###Simple Usage
 
+```html
+<pre>
 [bible passage="Jn 3:16"]
+</pre>
+```
 
-=Advanced Usage=
+###Advanced Usage
 
+```html
+<pre>
 [bible passage="John 3:15-18" version="KJV" shownum="no" 1vpl="no" versesep="div" sepclass="bible-verse"]
+</pre>
+```
 
-=Parameters=
+###Parameters
 
-* passage *(is the bible passage that you want to display.)*
-* version *(is the bible translation that you want to use, default is KJV.)*
-* shownum (show the verse numbers (yes or no), default is no.)*
-* 1vpl *(one verse per line (yes or no), default is yes.)*
-* versesep *(is the html element that wraps a single verse, default is the ”&lt;p&gt;” tag.)*
-* sepclass *(is the verse wrapper css class.)*
+* **passage** *(is the bible passage that you want to display.)*
+* **version** *(is the bible translation that you want to use, default is KJV.)*
+* **shownum** (show the verse numbers (yes or no), default is no.)*
+* **1vpl** *(one verse per line (yes or no), default is yes.)*
+* **versesep** *(is the html element that wraps a single verse, default is the ”&lt;p&gt;” tag.)*
+* **sepclass** *(is the verse wrapper css class.)*
 
 == Installation ==
 
