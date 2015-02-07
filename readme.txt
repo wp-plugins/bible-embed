@@ -18,10 +18,11 @@ Using an API from Biblia.Com this plugin embeds the bible right into your pages 
 Please note that this plugin requires an API Key from Biblia.Com.
 
 1. If you don’t already have an account with (Logos.Com) [click here to register with Logos.](https://www.logos.com/register) You will need it to register you website with (Biblia.com).
-
 2. [Click this link to register for a Biblia.Com API key!](http://api.biblia.com/v1/Users/SignIn)
 
 = Shortcode Usage Example =
+
+Here I will demonstrate how to use the shortcode.
  
 = Simple Usage =
 
