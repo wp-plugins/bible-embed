@@ -17,23 +17,23 @@ Using an API from Biblia.Com this plugin embeds the bible right into your pages 
 
 Please note that this plugin requires an API Key from Biblia.Com.
 
-[Click the link below to register for a Biblia.Com API key!](http://api.biblia.com/v1/Users/SignIn)
+[Click this link to register for a Biblia.Com API key!](http://api.biblia.com/v1/Users/SignIn)
 
-Shortcode Usage Example
+##Shortcode Usage Example
 
-Simple Usage
+###Simple Usage
 
 <pre>
 [bible passage="Jn 3:16"]
 </pre>
 
-Advanced Usage
+###Advanced Usage
 
 <pre>
 [bible passage="John 3:15-18" version="KJV" shownum="no" 1vpl="no" versesep="div" sepclass="bible-verse"]
 </pre>
 
-Parameters
+###Parameters
 
 * **passage** *(is the bible passage that you want to display.)*
 * **version** *(is the bible translation that you want to use, default is KJV.)*
@@ -45,7 +45,7 @@ Parameters
 == Installation ==
 
 1. Upload the `bible-embed.zip` folder to the `/wp-content/plugins/` directory
-2. Activate the plugin through the \'Plugins\' menu in WordPress
+2. Activate the plugin through the Plugins Manager in WordPress
 3. Register your website with Biblia.Com to recieve an API key.
 4. Go to Dashboard > Settings > BibleEmbed and enter you API key.
 
