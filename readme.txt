@@ -45,6 +45,10 @@ Here I will demonstrate how to use the shortcode.
 * **versesep** *(is the html element that wraps a single verse, default is the ”&lt;p&gt;” tag.)*
 * **sepclass** *(is the verse wrapper css class.)*
 
+= Lang = 
+
+Currently this plugin is only in English, however, if anyone would like to translate it into another language, please contact me. This would greatly appreciated.
+
 == Installation ==
 
 1. Upload the `bible-embed.zip` folder to the `/wp-content/plugins/` directory
