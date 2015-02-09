@@ -61,3 +61,13 @@ Currently this plugin is only in English, however, if anyone would like to trans
 1. screenshot-1.jpg
 2. screenshot-2.jpg
 3. screenshot-3.jpg
+
+== Changelog ==
+
+= 0.0.3 = 
+
+Speed up pageload by restricting API calls only on single pages and posts. 
+
+= 0.0.2 = 
+
+Initial plugin version.
