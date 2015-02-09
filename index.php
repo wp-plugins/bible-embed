@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Bible Text Embed
-Version: 0.0.2
+Version: 0.0.3
 Plugin URI: http://www.joshuawieczorek.com/wordpress/plugins/bible-embed
 Author: Joshua Wieczorek
 Author URI: http://www.joshuawieczorek.com
@@ -98,7 +98,10 @@ if(!function_exists('bte_bible_shortcode'))
             'versesep'	=> 'p',
             'sepclass'	=> ''        
         ), $atts );                
-		return bte_get_bible_passage( $a['passage'] , $a['version'] , $a['shownum'] , $a['1vpl'] , $a['versesep'] , $a['sepclass'] );        	
+		if( is_single() ) {
+        	return bte_get_bible_passage( $a['passage'] , $a['version'] , $a['shownum'] , $a['1vpl'] , $a['versesep'] , $a['sepclass'] );        	
+        }
+        return ucfirst( $a['passage'] ) . '...[]';
     }    
 }
 add_shortcode( 'bible', 'bte_bible_shortcode' );
