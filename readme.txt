@@ -64,8 +64,9 @@ Currently this plugin is only in English, however, if anyone would like to trans
 
 == Changelog ==
 
-= 0.0.3 = 
+= Verions =
 
+= 0.0.3 = 
 Speed up pageload by restricting API calls to only single pages and posts, it will just display the passage reference on archive pages.
 
 = 0.0.2 = 
