@@ -64,10 +64,6 @@ Currently this plugin is only in English, however, if anyone would like to trans
 
 == Changelog ==
 
-= 0.0.3 = 
-
-Speed up pageload by restricting API calls only on single pages and posts. 
-
 = 0.0.2 = 
 
 Initial plugin version.
