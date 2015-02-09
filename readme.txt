@@ -64,11 +64,9 @@ Currently this plugin is only in English, however, if anyone would like to trans
 
 == Changelog ==
 
-= Verions =
-
-= 0.0.3 = 
+= Version 0.0.3 = 
 Speed up pageload by restricting API calls to only single pages and posts, it will just display the passage reference on archive pages.
 
-= 0.0.2 = 
+= Version  0.0.2 = 
 
 Initial plugin version.
