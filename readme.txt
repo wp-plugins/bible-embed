@@ -51,7 +51,7 @@ Currently this plugin is only in English, however, if anyone would like to trans
 
 == Installation ==
 
-1. Upload the `bible-embed.zip` folder to the `/wp-content/plugins/` directory
+1. Upload the `bible-embed.zip` file  to the `/wp-content/plugins/` directory
 2. Activate the plugin through the Plugins Manager in WordPress
 3. Register your website with Biblia.Com to recieve an API key.
 4. Go to Dashboard > Settings > BibleEmbed and enter your API key.
@@ -66,7 +66,8 @@ Currently this plugin is only in English, however, if anyone would like to trans
 
 = 0.0.3 = 
 
-Speed up pageload by restricting API calls only on single pages and posts. 
+Speed up pageload by restricting API calls to only single pages and posts, it will just display the passage reference on archove pages.
+
 
 = 0.0.2 = 
 
