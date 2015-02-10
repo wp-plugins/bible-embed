@@ -101,7 +101,7 @@ if(!function_exists('bte_bible_shortcode'))
 		if( is_single() ) {
         	return bte_get_bible_passage( $a['passage'] , $a['version'] , $a['shownum'] , $a['1vpl'] , $a['versesep'] , $a['sepclass'] );        	
         }
-        return ucfirst( $a['passage'] ) . '...[]';
+        return '...';
     }    
 }
 add_shortcode( 'bible', 'bte_bible_shortcode' );
