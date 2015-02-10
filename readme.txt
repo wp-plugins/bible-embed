@@ -47,7 +47,7 @@ Here I will demonstrate how to use the shortcode.
 
 = Lang = 
 
-Currently this plugin is only in English, however, if anyone would like to translate it into another language please contact me at josh@joshuawieczorek.com. The help would greatly appreciated.
+Currently this plugin is only in English, however, if anyone would like to translate it into another language please contact me at josh@joshuawieczorek.com. The contribution  would be greatly appreciated.
 
 == Installation ==
 
@@ -63,6 +63,9 @@ Currently this plugin is only in English, however, if anyone would like to trans
 3. screenshot-3.jpg
 
 == Changelog ==
+
+= Version 0.0.4 = 
+Changed output text on archive pages.
 
 = Version 0.0.3 = 
 Speed up pageload by restricting API calls to only single pages and posts, it will just display the passage reference on archive pages.
