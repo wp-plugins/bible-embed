@@ -72,4 +72,4 @@ Speed up pageload by restricting API calls to only single pages and posts, it wi
 
 = Version  0.0.2 = 
 
-Initial plugin version.
+Initial plugin release.
