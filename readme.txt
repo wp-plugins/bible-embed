@@ -47,7 +47,7 @@ Here I will demonstrate how to use the shortcode.
 
 = Lang = 
 
-Currently this plugin is only in English, however, if anyone would like to translate it into another language please contact me at josh@joshuawieczorek.com. The contribution  would be greatly appreciated.
+Currently this plugin is only in English, however, if anyone would like to translate it into another language please contact me at josh@joshuawieczorek.com. The contribution would be greatly appreciated.
 
 == Installation ==
 
