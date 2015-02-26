@@ -12,6 +12,14 @@ This plugin allows you to display bible verses and passages directly in your pos
 
 == Description ==
 
+= Coming Soon!!!! Version 2.0. =
+
+With 2.0 you will have the ability to install the bible directly into your website, no external API calls.
+
+And better yet, no more API keys!!!!
+
+Yea!!!!!
+
 The Bible Embed plugin for WordPress
 Using an API from Biblia.Com this plugin embeds the bible right into your pages and posts, or anywhere you want.
 
@@ -73,3 +81,4 @@ Speed up pageload by restricting API calls to only single pages and posts, it wi
 = Version  0.0.2 = 
 
 Initial plugin release.
+
